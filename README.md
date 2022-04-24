@@ -1,11 +1,8 @@
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+To be able to implement user requirement into a program requires a thorough understanding of what the user needs. This will need the software developer to work with the customer and apply some background knowledge of the business to creating user stories. User stories help the Scrum team to break down the whole project into smaller sprints for the develpment team to work on. It also serves as the standards to test the product to be deliverable or not. 
 
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+The Scrum method is a practical way for software development, especially for the project with a high level of uncertainty. The phases in software development life cycle provides clear guidance on what actions should be taken at each stage. As a software developer, part of the development team, I would incorporate the the agile model into my future work: plan, design, develop, test, deploy, review and launch.
 
-
-
-
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
-
-
-What does it mean to be a good team member in software development?
+**What does it mean to be a good team member in software development?**
+In my opinion, a good team member collaborates with peers to complete assigned tasks and to expand the team’s capabilities through items prioritization, clear communication, and on-going professional development. A good team member knows his or her role in the team and function that role to the best of his or her capability. When the team requires it, he or she could be flexible to adjust the role so as to maximize the team's capability as a whole. 
